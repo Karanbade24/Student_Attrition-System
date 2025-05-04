@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ---
 
 # Student Attrition System
@@ -105,3 +106,6 @@ The Student Attrition System project successfully develops a machine learning mo
   Broaden scholarship offerings to support high-risk students.
 
 ---
+=======
+# Student_Attrition-System
+>>>>>>> 3d4a1c76fc0638ab1a473780475794513ce78de9
